@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.5.1)
+  - EFCountingLabel (4.0.1)
+  - PKHUD (4.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - EFCountingLabel
+  - PKHUD (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  EFCountingLabel: 1beb6707761ad00b97efc8bde5c3fceaa7cb9eec
+  PKHUD: c7692163a09875cbf15827dc581df3c5cf7f1015
+
+PODFILE CHECKSUM: dc803ae3bc6db3176d0494f829332187088f0fcd
+
+COCOAPODS: 1.4.0.beta.2

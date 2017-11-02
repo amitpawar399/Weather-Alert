@@ -1,0 +1,6 @@
+framework module Pods_CodingStandard {
+  umbrella header "Pods-CodingStandard-umbrella.h"
+
+  export *
+  module * { export * }
+}
